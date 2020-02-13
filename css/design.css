@@ -1,0 +1,11 @@
+#index-banner{
+    overflow: hidden;
+}
+
+#jiva{
+  position: absolute;
+  top: 10px;
+  z-index: 0;
+  right: -250px;
+  width: 700px;
+}
